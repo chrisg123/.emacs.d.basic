@@ -27,6 +27,7 @@
 ;; Load custom scripts.
 (add-to-list 'load-path "~/.emacs.d/custom/")
 (require 'emacs-saves)
+(require 'misc)
 
 ;;; init.el ends here
 
